@@ -1,8 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plantify.Domain", "Plantify.Domain\Plantify.Domain.csproj", "{0309EBCB-8D32-4230-A1B0-D904EF474FCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0309EBCB-8D32-4230-A1B0-D904EF474FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0309EBCB-8D32-4230-A1B0-D904EF474FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0309EBCB-8D32-4230-A1B0-D904EF474FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0309EBCB-8D32-4230-A1B0-D904EF474FCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
